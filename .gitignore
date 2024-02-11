@@ -1,0 +1,28 @@
+# Virtual environment
+venv/
+__pycache__/
+
+# Compiled Python files
+*.pyc
+*.pyo
+*.pyd
+
+# Editor-specific files
+.vscode/
+.idea/
+
+# Compiled files
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.user
+*.suo
+*.bak
+*.cache
+*.log
+
+# Miscellaneous
+*.DS_Store
+Thumbs.db
