@@ -45,7 +45,7 @@ def organize_downloads(folder_path):
 
 def print_moved_file(file, category):
     file_name = os.path.basename(file)
-    print(f"Moved {file_name} to {category} folder.")
+    print(f"Moved {file_name} to folder: {category}")
 
 if __name__ == "__main__":
     # Set the path to your Downloads folder
