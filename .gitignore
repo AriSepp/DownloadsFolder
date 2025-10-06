@@ -26,3 +26,27 @@ __pycache__/
 # Miscellaneous
 *.DS_Store
 Thumbs.db
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Unit test / coverage reports
+.coverage
+htmlcov/
+.tox/
+.nox/
+.pytest_cache/
+
+# Jupyter / IPython
+.ipynb_checkpoints/
+
+# Environment & secrets
+.env
+.env.*
+
+# OS-specific extras
+*.out
+*.lock
